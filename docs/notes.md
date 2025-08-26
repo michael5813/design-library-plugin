@@ -11,3 +11,4 @@ Notes and usage details for design-library-plugin.
 - add a note about the defaults
 - add a note about the defaults
 - add a note about the defaults
+- link the usage section
